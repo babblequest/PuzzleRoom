@@ -18,8 +18,11 @@ Dependencies:
 ![Sample Image](images/Sample.jpg "Sample Page")
 
 Custom fields are added in index.js with method addField
-   
-  addField("location", "Location:", "Please provide location",
+*  randomString is generated for you in the code
+*  addField(fieldName, label, prompt, regex, errorMessage, randomString)
+  
+Example:
+*  addField("location", "Location:", "Please provide location",
             /^[ ]*greenland[ ]*$/i, "Wrong Location", randomString);
             
 Regular Expression Tutorial:
