@@ -21,3 +21,10 @@ Custom fields are added in index.js with method addField
    
   addField("location", "Location:", "Please provide location",
             /^[ ]*greenland[ ]*$/i, "Wrong Location", randomString);
+            
+Regular Expression Tutorial:
+*    ^ - means start of string
+*    [ ]* - means zero of more spaces
+*    $ - means end of string
+*    i - means letter case is not important
+*    / - delimites the regular expression
