@@ -10,6 +10,7 @@ Features:
 * Seperate actions for failure and success
 * Form caching disabled by appending random strings to form field names
 * Large countdown timer
+* Animated gifs
 
 Dependencies:
 * flipclock.js
