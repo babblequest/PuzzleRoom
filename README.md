@@ -16,6 +16,9 @@ We used 4 separate problem flows. One to unlock the computer keyboard and three 
 
 The problem presentation is in the Dr Z document. 
 
+## Sample web page using the app
+![Sample Image](images/Sample.jpg "Sample Page")
+
 ## Features:
 * Simple setup
 * Validation by regular expression
@@ -29,8 +32,6 @@ The problem presentation is in the Dr Z document.
 * flipclock.js
 * Bootstrap
 * Bootstrap-validator
-
-![Sample Image](images/Sample.jpg "Sample Page")
 
 ## Custom fields are added in index.js with method addField
 *  randomString is generated for you in the code
