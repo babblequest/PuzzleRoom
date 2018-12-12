@@ -21,6 +21,7 @@ The problem presentation is in the Dr Z document.
 
 ## Features:
 * Simple setup
+* Easy to modify for your class
 * Validation by regular expression
 * Immediate feedback for each sub puzzle solved
 * Feedback for failure and success
