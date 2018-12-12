@@ -12,16 +12,17 @@ We used 4 seperate problem flows. One to unlock the computer keyboard and three 
 The problem presentation is in the DrZ document. 
 
 Features:
-* Simple setup using single method
+* Simple setup
 * Validation by regular expression
 * Immediate feedback for each sub puzzle solved
-* Seperate actions for failure and success
+* Feedback for failure and success
 * Form caching disabled by appending random strings to form field names
 * Large countdown timer
 * Animated gifs
 
 Dependencies:
 * flipclock.js
+* Bootstrap
 * Bootstrap-validator
 
 ![Sample Image](images/Sample.jpg "Sample Page")
