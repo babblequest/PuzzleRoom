@@ -1,7 +1,12 @@
 # PuzzleRoom
 Escape room or puzzle room single page app
 
-This is a single web page app created for the Cornell Elementary Advanced math group.
+This is a single web page app created for the Cornell Elementary Advanced math group. 
+
+## Installation 
+To use simply clone or download the respository and open the index.html page in your web browser. Project the web page on a wall and enable your web browser's kiosk mode. 
+
+## Description
 
 A missile has been mistakenly launched. Only you and your team can stop it. Find the clues and enter the code to stop the missile. This is the result of the capstone project for my elementary advanced math group. I found this project to be interesting in that it required the team to be creative and work on a very open ended problem set. Many of my advanced kids found it hard to create something without any set parameters. 
 
@@ -11,7 +16,7 @@ We used 4 separate problem flows. One to unlock the computer keyboard and three 
 
 The problem presentation is in the Dr Z document. 
 
-Features:
+## Features:
 * Simple setup
 * Validation by regular expression
 * Immediate feedback for each sub puzzle solved
@@ -20,22 +25,22 @@ Features:
 * Large countdown timer
 * Animated gifs
 
-Dependencies:
+## Dependencies:
 * flipclock.js
 * Bootstrap
 * Bootstrap-validator
 
 ![Sample Image](images/Sample.jpg "Sample Page")
 
-Custom fields are added in index.js with method addField
+## Custom fields are added in index.js with method addField
 *  randomString is generated for you in the code
 *  addField(fieldName, label, prompt, regex, errorMessage, randomString)
   
-Example:
+### Example:
 *  addField("location", "Location:", "Please provide location",
             /^[ ]*greenland[ ]*$/i, "Wrong Location", randomString);
             
-Regular Expression Tutorial:
+## Regular Expression Tutorial:
 *    ^ - means start of string
 *    [ ]* - means zero of more spaces
 *    $ - means end of string
