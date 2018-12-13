@@ -3,6 +3,8 @@ Escape room or puzzle room single page app
 
 This is a single web page app created for the Cornell Elementary Advanced math group. This supports a set of puzzles presented in a physical environment. Puzzles are solved in the room and entered into the app once all correct answers are provided the missle is disarmed and the puzzle room is solved. A timer on the page provide the countdown.
 
+![Sample Image](images/Sample.jpg "Sample Page")
+
 ## Installation 
 To use simply clone or download the respository and open the index.html page in your web browser. Project the web page on a wall and enable your web browser's kiosk mode. 
 
@@ -15,9 +17,6 @@ The rest of the grade was able to go through the puzzle room and reinforce many 
 We used 4 separate problem flows. One to unlock the computer keyboard and three to enter into the web app. We were able to support about 15 kids split into teams to solve each problem flow in parallel. To keep it simple each problem flow was located on a separate row of tables. Kids really seemed to enjoy both building and running through the room. 
 
 The problem presentation is in the Dr Z document. 
-
-## Sample web page using the app
-![Sample Image](images/Sample.jpg "Sample Page")
 
 ## Features:
 * Simple setup
