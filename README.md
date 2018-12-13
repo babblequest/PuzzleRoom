@@ -34,6 +34,9 @@ The problem presentation is in the Dr Z document.
 * Bootstrap
 * Bootstrap-validator
 
+## Special thanks to Terry L for his method used to disable form autofill
+* https://github.com/terrylinooo/jquery.disableAutoFill
+
 ## Custom fields are added in index.js with method addField
 *  randomString is generated for you in the code
 *  addField(fieldName, label, prompt, regex, errorMessage, randomString)
