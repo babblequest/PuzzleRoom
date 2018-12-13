@@ -1,7 +1,7 @@
 # PuzzleRoom
 Escape room or puzzle room single page app
 
-This is a single web page app created for the Cornell Elementary Advanced math group. 
+This is a single web page app created for the Cornell Elementary Advanced math group. This supports a set of puzzles presented in a physical environment. Puzzles are solved in the room and entered into the app once all correct answers are provided the missle is disarmed and the puzzle room is solved. A timer on the page provide the countdown.
 
 ## Installation 
 To use simply clone or download the respository and open the index.html page in your web browser. Project the web page on a wall and enable your web browser's kiosk mode. 
