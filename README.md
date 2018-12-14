@@ -50,3 +50,5 @@ The problem presentation is in the Dr Z document.
 *    $ - means end of string
 *    i - means letter case is not important
 *    / - delimites the regular expression
+
+All code is freely availabile under the GNU General Public License.
